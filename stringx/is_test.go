@@ -1,7 +1,7 @@
 package stringx
 
 import (
-	"github.com/zzopen/go-saber/internal"
+	"github.com/zzopen/zgo/internal"
 	"testing"
 )
 

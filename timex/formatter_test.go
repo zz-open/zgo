@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/zzopen/go-saber/internal"
+	"github.com/zzopen/zgo/internal"
 )
 
 func TestFormatTimeToStr(t *testing.T) {

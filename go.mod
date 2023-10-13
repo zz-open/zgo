@@ -1,3 +1,3 @@
-module github.com/zzopen/go-saber
+module github.com/zzopen/zgo
 
 go 1.20

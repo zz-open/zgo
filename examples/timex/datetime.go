@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/zzopen/go-saber/timex"
+	"github.com/zzopen/zgo/timex"
 )
 
 func main() {

@@ -6,7 +6,7 @@ Package timex supports date and time format and compare.
 
 ## Source:
 
-- [https://github.com/zzopen/go-saber/blob/main/timex/datetime.go](https://github.com/zzopen/go-saber/blob/main/timex/datetime.go)
+- [https://github.com/zzopen/zgo/blob/main/timex/datetime.go](https://github.com/zzopen/zgo/blob/main/timex/datetime.go)
 
 
 <div STYLE="page-break-after: always;"></div>
@@ -15,7 +15,7 @@ Package timex supports date and time format and compare.
 
 ```go
 import (
-    "github.com/zzopen/go-saber"
+    "github.com/zzopen/zgo"
 )
 ```
 
@@ -62,7 +62,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/zzopen/go-saber/timex"
+	"github.com/zzopen/zgo/timex"
 )
 
 func main() {
